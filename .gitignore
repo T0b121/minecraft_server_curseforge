@@ -1,3 +1,4 @@
+# Minecraft Server .gitignore file
 world/
 logs/
 crash-reports/
@@ -8,3 +9,7 @@ banned-ips.json
 banned-players.json
 ops.json
 whitelist.json
+
+# Ignorieren der System Dateien
+.DS_Store
+.env
