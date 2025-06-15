@@ -1,14 +1,5 @@
-# Minecraft Server .gitignore file
-world/
-logs/
-crash-reports/
-mods/
-config/
-server.properties
-banned-ips.json
-banned-players.json
-ops.json
-whitelist.json
+# Minecraft Server Daten
+modpack/
 
 # Ignorieren der System Dateien
 .DS_Store
