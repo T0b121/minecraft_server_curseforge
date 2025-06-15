@@ -4,3 +4,6 @@ modpack/
 # Ignorieren der System Dateien
 .DS_Store
 .env
+
+# Lokale Konfigurationen
+modpack_version.txt
